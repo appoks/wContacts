@@ -7,7 +7,7 @@ import VueResource from 'vue-resource';
 import 'vue-select/dist/vue-select.css';
 Vue.use(VueResource);
 
-Vue.http.options.root = 'https://wcontacts.azurewebsites.net/';
+Vue.http.options.root = 'http://192.168.0.7:5000/';
 
 Vue.component('v-select', vSelect);
 Vue.config.productionTip = false;

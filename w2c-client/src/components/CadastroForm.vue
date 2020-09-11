@@ -282,12 +282,16 @@
 
     .separator {
         width: 100%;
+        heigh: 1.5em  
     }
 
     .separator p {
         width: 100%;
         background-color: dimgray;
-        color: white;}
+        color: white;
+        padding-top: 4px;
+        padding-bottom: 3px;    
+    }
 
     .buttonGroup, smallerButtonGroup {
 

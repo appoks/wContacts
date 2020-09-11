@@ -1,0 +1,14 @@
+/home/appoks/repos/wContacts/W2contacts/bin/Debug/netcoreapp2.1/W2contacts.deps.json
+/home/appoks/repos/wContacts/W2contacts/bin/Debug/netcoreapp2.1/W2contacts.runtimeconfig.json
+/home/appoks/repos/wContacts/W2contacts/bin/Debug/netcoreapp2.1/W2contacts.runtimeconfig.dev.json
+/home/appoks/repos/wContacts/W2contacts/bin/Debug/netcoreapp2.1/W2contacts.dll
+/home/appoks/repos/wContacts/W2contacts/bin/Debug/netcoreapp2.1/W2contacts.pdb
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.csprojAssemblyReference.cache
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.csproj.CoreCompileInputs.cache
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.RazorAssemblyInfo.cache
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.RazorAssemblyInfo.cs
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.AssemblyInfoInputs.cache
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.AssemblyInfo.cs
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.RazorTargetAssemblyInfo.cache
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.dll
+/home/appoks/repos/wContacts/W2contacts/obj/Debug/netcoreapp2.1/W2contacts.pdb
