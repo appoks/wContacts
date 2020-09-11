@@ -31,9 +31,9 @@ Todos os nomes e números foram gerados através do [Gerador de Pessoas](https:/
 
 ## :wrench: ToDo
 
-[ ] Tornar a aplicação responsiva;
-[ ] Adicionar validações (back-end);
-[ ] Tornar validação mais intuitiva (front-end).
+- [ ] Tornar a aplicação responsiva;
+- [ ] Adicionar validações (back-end);
+- [ ] Tornar validação mais intuitiva (front-end).
 
 ~
 Não será feito, mas é o mínimo que consigo pensar por agora...
