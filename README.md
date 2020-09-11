@@ -15,7 +15,7 @@ A aplicação é uma simples agenda que lista os contatos dos clientes e seus re
 - Vue Resource para consumo da API REST.
 - ASP.NET Core como framework back-end;
 - Entity Framework como ORM;
-- PosrgreSQL para persistência dos dados;
+- PostgreSQL para persistência dos dados;
 - Azure para deploy da aplicação final;
 - ElephantSQL como *Database as a Service*.
 
